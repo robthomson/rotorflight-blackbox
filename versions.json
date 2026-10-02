@@ -1,0 +1,11 @@
+{
+  "entries": [
+    {
+      "type": "branch",
+      "name": "feature-pr-previews",
+      "path": "./feature-pr-previews/",
+      "branch": "feature/pr-previews",
+      "date": "2026-10-02T07:35:48Z"
+    }
+  ]
+}
