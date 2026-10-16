@@ -8,13 +8,6 @@
     },
     {
       "type": "branch",
-      "name": "feature-master-gain",
-      "path": "./feature-master-gain/",
-      "branch": "feature/master-gain",
-      "date": "2026-10-14T00:13:57Z"
-    },
-    {
-      "type": "branch",
       "name": "feature-pr-previews",
       "path": "./feature-pr-previews/",
       "branch": "feature/pr-previews",
